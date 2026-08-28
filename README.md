@@ -4,7 +4,7 @@
 ### Various our releases are located here, this repo is used as a file sharing service.
 | Release | _Description_ | Download link |
 | :---         |     :---:      |          ---: |
-| **Wind of time** | [**Wind of Time**](https://www.moddb.com/mods/wind-of-time) is one of the most popular and recognizable mods in the community. It's a story-driven project created by one person in 2017. We chose this mod to test the CoP version of OGSR engine, and the results exceeded all expectations. For me, who hadn't played this mod before, it looks significantly better than most releases in recent years, which were based on CoP. That's why I decided to release a standalone version of the mod using the OGSR engine so that anyone who wants to can replay this wonderful mod in the new engine. | [**WOT 1.3+ OGSR Edition**](https://github.com/OGSR/OGSR_Releases/releases/tag/WOT1.3%2BOGSR_Edition)  |
+| **Wind of time** | _[**Wind of Time**](https://www.moddb.com/mods/wind-of-time) is one of the most popular and recognizable mods in the community. It's a story-driven project created by one person in 2017. We chose this mod to test the CoP version of OGSR engine, and the results exceeded all expectations. For me, who hadn't played this mod before, it looks significantly better than most releases in recent years, which were based on CoP. That's why I decided to release a standalone version of the mod using the OGSR engine so that anyone who wants to can replay this wonderful mod in the new engine._ | [**WOT 1.3+ OGSR Edition**](https://github.com/OGSR/OGSR_Releases/releases/tag/WOT1.3%2BOGSR_Edition)  |
 
 ## Russian:
 ### Здесь находятся различные наши релизы, этот репо используется как файлообменник.
